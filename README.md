@@ -1,7 +1,7 @@
 Hi! My name is Abhishek Kumar 😄
 ========================================================================================================================================
 
-🌍  I am a Software Developer based in Greater Noida, India.
+🌍  I am a Full Stack Developer based in Greater Noida, India.
 <br/>
 
 ### Skills
